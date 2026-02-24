@@ -1,73 +1,60 @@
-# Welcome to your Lovable project
+🚀 InnovNepal - Robotics & Engineering E-Commerce
+InnovNepal is a premium, high-performance frontend solution designed specifically for the robotics and electronics engineering community in Nepal. This platform provides a seamless interface for students and professionals in ECE, EE, and Mechanical Engineering to source high-precision components.
 
-## Project info
+🛠 Built By
+Developed with precision by KripeshBhele.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+✨ Key Features
+🏗️ Innovative User Interface
+Industrial Tech Aesthetic: A sleek, dark-themed UI with "Electric Blue" accents and glassmorphism effects.
 
-## How can I edit this code?
+Professional Hero Section: High-impact visuals with the slogan: "Engineering the Future of Nepal: Precision Robotics & Electronics at Your Fingertips."
 
-There are several ways of editing your application.
+Smooth Interactivity: Integrated smooth scrolling, entrance animations (fade/slide), and "Lift-on-Hover" card effects.
 
-**Use Lovable**
+🛒 E-Commerce Functionality
+Advanced Search & Discovery: Functional search bar to find specific microcontrollers, sensors, or actuators.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Smart Sorting: Organise components by Price (Low to High / High to Low) or Popularity.
 
-Changes made via Lovable will be committed automatically to this repo.
+Category Filtering: Quick-access chips for Microcontrollers, Sensors, Power Modules, and Actuators.
 
-**Use your preferred IDE**
+Deep Product Insights: Interactive modals for every item including:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Technical Specifications Tables (Voltage, Current, Interface).
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+NPR (Rs.) Currency Integration.
 
-Follow these steps:
+Datasheet Download placeholders for engineering documentation.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+💻 Tech Stack
+Framework: React / Next.js
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Styling: Tailwind CSS (Utility-first CSS)
 
-# Step 3: Install the necessary dependencies.
-npm i
+Icons: Lucide-React / FontAwesome
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Animations: Framer Motion / CSS3 Transitions
 
-**Edit a file directly in GitHub**
+Layout: Fully Responsive (Mobile, Tablet, Desktop)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+📂 Project Structure
+Plaintext
+├── src
+│   ├── components      # Header, Footer, Hero, Product Cards
+│   ├── data            # Product inventory and specifications
+│   ├── hooks           # Search and Filter logic
+│   └── styles          # Tailwind & Global animations
+├── public              # Assets and Datasheets
+└── README.md
+📞 Contact & Support
+For inquiries regarding our services, members, or technical support, please reach out via:
 
-**Use GitHub Codespaces**
+Email: [Your Email Here]
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Phone: [Your Phone Number Here]
 
-## What technologies are used for this project?
+Website: InnovNepal Official
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+📜 License
+Project developed and maintained by KripeshBhele. All Rights Reserved.

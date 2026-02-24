@@ -24,11 +24,11 @@ const Footer = () => {
             <h3 className="text-sm font-semibold text-foreground mb-3">Contact</h3>
             <div className="space-y-2">
               <a
-                href="mailto:info@innovnepal.com"
+                href="mailto:info@onprocess.com"
                 className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
               >
                 <Mail className="w-4 h-4 text-primary" />
-                info@innovnepal.com
+                info@onprocess.com
               </a>
               <a
                 href="tel:+9771234567890"
@@ -45,8 +45,8 @@ const Footer = () => {
             <h3 className="text-sm font-semibold text-foreground mb-3">Follow Us</h3>
             <div className="flex gap-3">
               {[
-                { icon: Github, href: "#" },
-                { icon: Linkedin, href: "#" },
+                { icon: Facebook, href: "#" },
+                { icon: Twitter, href: "#" },
                 { icon: Instagram, href: "#" },
               ].map(({ icon: Icon, href }, i) => (
                 <a

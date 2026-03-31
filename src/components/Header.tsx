@@ -18,7 +18,8 @@ const Header = ({ searchQuery, onSearchChange }: HeaderProps) => {
   }, []);
 
   const navLinks = [
-    { label: "About Our Service", href: "#about" },
+    { label: "About", href: "#about" },
+    { label: "Our Service", href: "#service" },
     { label: "Members", href: "#members" },
     { label: "Contact", href: "#contact" },
   ];
